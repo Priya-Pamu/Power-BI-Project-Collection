@@ -9,6 +9,22 @@ Getting Started
 
 To view and interact with the dashboard, you'll need Power BI Desktop. You can download and install it from the Microsoft Store or by following this link(https://www.microsoft.com/en-us/download/details.aspx?id=58494).
 
+ ## Technology Used :-
+ Power BI (Business Intelligence Tool) Power Query Editor DAX Language Data Modeling.
+ 
+ ## Steps covered:
+ > 🌐Imported data from MS Excel to Power BI
+ 
+ > 🪄Data transformation in Power Query editor
+ 
+ > ⚒️Made measures important for Dashboarding
+ 
+ > 📊Setup Dashboard background
+ 
+ > Set-up Dashboard Theme >Format Visuals
+ 
+ > Overall rating visualization
+
 Data Source
 
 The sales data is stored in Excel format, split across four files. The following steps were followed in the project:
@@ -24,3 +40,5 @@ Interactive Dashboard Creation: Created an interactive dashboard that allows use
 Advanced Visualization Techniques: Implemented complex parameters, filters,slicers and bookmarks to enable dynamic and detailed data exploration.
 Data Manipulation and Calculation: Created connections, joined new tables, and performed calculations to manipulate data and enhance visualizations.
 Customized Visualizations: Utilized various customized visualizations such as bar charts, donut charts, clustered bar charts, slicers, etc., to present data effectively.
+
+ **Actionable Insights and Recommendations:-** End goal is to share valuable insights and actionable insights that can drive business decision making
